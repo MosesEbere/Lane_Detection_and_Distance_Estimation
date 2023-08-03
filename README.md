@@ -4,7 +4,7 @@
 
 This repository houses all the scripts for the implementation of the computer vision project titiled, "Lane Detection and Distance Estimation with a Monocular Camera." The primary goal is to detect lanes on the road and estimate the distance of the camera from a traffic sign using computer vision techniques. The project uses OpenCV, NumPy, and Matplotlib libraries in Python to process the images or video frames captured by the camera.
 
-## Members of the goup:
+## Members of the group:
 
 This project has been carried out by:
 
